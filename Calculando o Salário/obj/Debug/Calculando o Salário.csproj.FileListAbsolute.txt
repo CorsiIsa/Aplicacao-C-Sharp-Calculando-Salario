@@ -1,0 +1,7 @@
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\bin\Debug\Calculando o Salário.exe.config
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\bin\Debug\Calculando o Salário.exe
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\bin\Debug\Calculando o Salário.pdb
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\obj\Debug\Calculando o Salário.csproj.AssemblyReference.cache
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\obj\Debug\Calculando o Salário.csproj.CoreCompileInputs.cache
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\obj\Debug\Calculando o Salário.exe
+C:\Users\icors\source\repos\Calculando o Salário\Calculando o Salário\obj\Debug\Calculando o Salário.pdb
