@@ -28,7 +28,7 @@ namespace Calculando_o_Salário
             SL = SB - IMP;
 
             //Saídas
-            Console.WriteLine("Salário Liquído: " + SL);
+            Console.WriteLine("Salário Líquido: " + SL);
             Console.WriteLine("Salário Bruto: " + SB);
             Console.WriteLine("Imposto: " + IMP);
             Console.ReadLine();
